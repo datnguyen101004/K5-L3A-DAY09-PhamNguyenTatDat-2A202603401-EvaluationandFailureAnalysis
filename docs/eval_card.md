@@ -3,9 +3,9 @@
 Card này đi kèm mỗi báo cáo và được dùng lại ở Day 10.
 
 - **Run ID / eval set SHA:**
-  - Eval set v1: `dad155f7438c` · Baseline run ID: `E-swarm-20261117-dad1`
-  - Eval set v2: `92b34492d138` · Baseline run ID: `E-swarm-20261117-92b3`
-- **Phiên bản:** Code (`starter/d09`) · eval set v1 (`dad155f7438c`) / v2 (`92b34492d138`) · metric_spec 1.0 & 2.0 · seeds: `[11, 22, 33, 44, 55]`
+  - Eval set v1: `a23535c901db` · Baseline run ID: `E-swarm-20261117-a235`
+  - Eval set v2: `d6ea53142c2c` · Baseline run ID: `E-swarm-20261117-d6ea`
+- **Phiên bản:** Code (`starter/d09`) · eval set v1 (`a23535c901db`) / v2 (`d6ea53142c2c`) · metric_spec 1.0 & 2.0 · seeds: `[11, 22, 33, 44, 55]`
 - **Eval set:**
   - v1: 14 item × 5 seed (70 trials), nguồn `data/public_claims.jsonl`, nhãn `data/eval/labels_v1.json`.
   - v2: 28 item × 5 seed (140 trials), bao gồm 14 item regression + 14 item adversarial pack (`data/eval/adversarial_v2.json`), nhãn `data/eval/labels_v2.json`.
